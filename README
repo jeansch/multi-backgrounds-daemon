@@ -1,0 +1,5 @@
+multi-background-daemon
+
+This is a daemon that keep the background settings that you uses for each workspace.
+
+Should be obsolete now. Code is here for the posterity !

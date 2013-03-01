@@ -1,0 +1,11 @@
+multi-backgrounds-daemon
+========================
+
+This program will save and restore the settings for each of your
+desktops as you switch between them. The result is that you can set a
+different wallpaper for each desktop.
+
+For best results, its best to add multi-backgrounds-daemon to your
+manual session, via Preferences -> Advanced -> Sessions.
+
+ -- Ross Burton <ross@debian.org>, Fri Jun  6 18:38:21 2003
